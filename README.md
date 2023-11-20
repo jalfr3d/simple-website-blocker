@@ -49,3 +49,7 @@ Be cautious when modifying the hosts file, as it can affect the behavior of your
 You can add or remove websites from the website_lists variable to customize the list of blocked websites.
 
 That's it! Use this website blocker script to increase productivity during your working hours by blocking distracting websites.
+
+## License
+
+This project is licensed under the MIT License. You are free to use and modify the code for your own purposes.
